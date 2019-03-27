@@ -36,6 +36,7 @@ class QuestionContainer
 
         return(
           <Question
+            key={question.id}
             id={question.id}
             question={question.question}
             handleClick={handleClick}
