@@ -10,7 +10,7 @@ class App extends React.Component {
   }
   render() {
     return(
-      <div>
+      <div id="container-box">
         <h1 id="hero">We're here to help:
         </h1>
         <QuestionContainer
