@@ -1,0 +1,16 @@
+#question-box {
+  border-bottom: 4px solid gray;
+}
+
+#question-and-answer {
+  display: flex;
+  flex-direction: column;
+}
+
+.fa-plus-square {
+  color: #1c2224;
+}
+
+.fa-minus-square {
+  color: #84CE15;
+}
