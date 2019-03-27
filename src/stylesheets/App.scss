@@ -10,8 +10,9 @@ body {
   font-family: 'Baloo Chettan', cursive;
 }
 
-#container-box{
+#container-box {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  align-items: center;
 }
